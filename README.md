@@ -1,6 +1,8 @@
 ### About📝
 This is a frontend project from my college subject "Basic of Interface Design". I developed this with my two fellow classmates. In this project, i learn to work in fast paced and tight deadlines. Because you know, college is full of deadlines right 🧑‍🏫. Oh, by the way this project got an A 💯
 
+<hr/>
+
 ### Demo💻
 Here's the link to the [demo][1]
 
